@@ -1,0 +1,719 @@
+RawXML
+"<Event xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><System><Provider Name=""Microsoft-Windows-Security-Auditing"" Guid=""{54849625-5478-4994-a5ba-3e3b0328c30d}""></Provider>
+<EventID Qualifiers="""">4907</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13568</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime=""2026-02-11 18:53:59.318653+00:00""></TimeCreated>
+<EventRecordID>788962</EventRecordID>
+<Correlation ActivityID="""" RelatedActivityID=""""></Correlation>
+<Execution ProcessID=""4"" ThreadID=""15712""></Execution>
+<Channel>Security</Channel>
+<Computer>REMDOZ</Computer>
+<Security UserID=""""></Security>
+</System>
+<EventData><Data Name=""SubjectUserSid"">S-1-5-18</Data>
+<Data Name=""SubjectUserName"">REMDOZ$</Data>
+<Data Name=""SubjectDomainName"">WORKGROUP</Data>
+<Data Name=""SubjectLogonId"">0x00000000000003e7</Data>
+<Data Name=""ObjectServer"">Security</Data>
+<Data Name=""ObjectType"">File</Data>
+<Data Name=""ObjectName"">C:\ProgramData\Dell\SARemediation\SystemRepair\Snapshots\Backup\1A41D79854BCBD216E511E8BC2D4625CC1C1FACE.DLL</Data>
+<Data Name=""HandleId"">0x0000000000000698</Data>
+<Data Name=""OldSd"">S:AINO_ACCESS_CONTROL</Data>
+<Data Name=""NewSd"">S:(AU;SAFA;DCLCRPCRSDWDWO;;;WD)</Data>
+<Data Name=""ProcessId"">0x0000000000003f1c</Data>
+<Data Name=""ProcessName"">C:\Program Files\Dell\SARemediation\agent\DellSupportAssistRemedationService.exe</Data>
+</EventData>
+</Event>
+"
+"<Event xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><System><Provider Name=""Microsoft-Windows-Security-Auditing"" Guid=""{54849625-5478-4994-a5ba-3e3b0328c30d}""></Provider>
+<EventID Qualifiers="""">4907</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13568</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime=""2026-02-11 18:54:00.223719+00:00""></TimeCreated>
+<EventRecordID>789290</EventRecordID>
+<Correlation ActivityID="""" RelatedActivityID=""""></Correlation>
+<Execution ProcessID=""4"" ThreadID=""17696""></Execution>
+<Channel>Security</Channel>
+<Computer>REMDOZ</Computer>
+<Security UserID=""""></Security>
+</System>
+<EventData><Data Name=""SubjectUserSid"">S-1-5-18</Data>
+<Data Name=""SubjectUserName"">REMDOZ$</Data>
+<Data Name=""SubjectDomainName"">WORKGROUP</Data>
+<Data Name=""SubjectLogonId"">0x00000000000003e7</Data>
+<Data Name=""ObjectServer"">Security</Data>
+<Data Name=""ObjectType"">File</Data>
+<Data Name=""ObjectName"">C:\ProgramData\Dell\SARemediation\SystemRepair\Snapshots\Backup\4095DAA7F385590F2EB314625D1FC2F18F03FA90.dll</Data>
+<Data Name=""HandleId"">0x00000000000008f8</Data>
+<Data Name=""OldSd"">S:AINO_ACCESS_CONTROL</Data>
+<Data Name=""NewSd"">S:(AU;SAFA;DCLCRPCRSDWDWO;;;WD)</Data>
+<Data Name=""ProcessId"">0x0000000000003f1c</Data>
+<Data Name=""ProcessName"">C:\Program Files\Dell\SARemediation\agent\DellSupportAssistRemedationService.exe</Data>
+</EventData>
+</Event>
+"
+"<Event xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><System><Provider Name=""Microsoft-Windows-Security-Auditing"" Guid=""{54849625-5478-4994-a5ba-3e3b0328c30d}""></Provider>
+<EventID Qualifiers="""">4907</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13568</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime=""2026-02-11 18:54:16.446259+00:00""></TimeCreated>
+<EventRecordID>789896</EventRecordID>
+<Correlation ActivityID="""" RelatedActivityID=""""></Correlation>
+<Execution ProcessID=""4"" ThreadID=""17696""></Execution>
+<Channel>Security</Channel>
+<Computer>REMDOZ</Computer>
+<Security UserID=""""></Security>
+</System>
+<EventData><Data Name=""SubjectUserSid"">S-1-5-18</Data>
+<Data Name=""SubjectUserName"">REMDOZ$</Data>
+<Data Name=""SubjectDomainName"">WORKGROUP</Data>
+<Data Name=""SubjectLogonId"">0x00000000000003e7</Data>
+<Data Name=""ObjectServer"">Security</Data>
+<Data Name=""ObjectType"">File</Data>
+<Data Name=""ObjectName"">C:\ProgramData\Dell\SARemediation\SystemRepair\Snapshots\Backup\9D274E599A1670A8A73404D0A59BF1B85C23FB58.dll</Data>
+<Data Name=""HandleId"">0x00000000000012ec</Data>
+<Data Name=""OldSd"">S:AINO_ACCESS_CONTROL</Data>
+<Data Name=""NewSd"">S:(AU;SAFA;DCLCRPCRSDWDWO;;;WD)</Data>
+<Data Name=""ProcessId"">0x0000000000003f1c</Data>
+<Data Name=""ProcessName"">C:\Program Files\Dell\SARemediation\agent\DellSupportAssistRemedationService.exe</Data>
+</EventData>
+</Event>
+"
+"<Event xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><System><Provider Name=""Microsoft-Windows-Security-Auditing"" Guid=""{54849625-5478-4994-a5ba-3e3b0328c30d}""></Provider>
+<EventID Qualifiers="""">4907</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13568</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime=""2026-02-11 18:54:22.574408+00:00""></TimeCreated>
+<EventRecordID>790495</EventRecordID>
+<Correlation ActivityID="""" RelatedActivityID=""""></Correlation>
+<Execution ProcessID=""4"" ThreadID=""25672""></Execution>
+<Channel>Security</Channel>
+<Computer>REMDOZ</Computer>
+<Security UserID=""""></Security>
+</System>
+<EventData><Data Name=""SubjectUserSid"">S-1-5-18</Data>
+<Data Name=""SubjectUserName"">REMDOZ$</Data>
+<Data Name=""SubjectDomainName"">WORKGROUP</Data>
+<Data Name=""SubjectLogonId"">0x00000000000003e7</Data>
+<Data Name=""ObjectServer"">Security</Data>
+<Data Name=""ObjectType"">File</Data>
+<Data Name=""ObjectName"">C:\ProgramData\Dell\SARemediation\SystemRepair\Snapshots\Backup\5C3E7C24625503C54682B342140E34F937A21BD3.mui</Data>
+<Data Name=""HandleId"">0x00000000000008f0</Data>
+<Data Name=""OldSd"">S:AINO_ACCESS_CONTROL</Data>
+<Data Name=""NewSd"">S:(AU;SAFA;DCLCRPCRSDWDWO;;;WD)</Data>
+<Data Name=""ProcessId"">0x0000000000003f1c</Data>
+<Data Name=""ProcessName"">C:\Program Files\Dell\SARemediation\agent\DellSupportAssistRemedationService.exe</Data>
+</EventData>
+</Event>
+"
+"<Event xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><System><Provider Name=""Microsoft-Windows-Security-Auditing"" Guid=""{54849625-5478-4994-a5ba-3e3b0328c30d}""></Provider>
+<EventID Qualifiers="""">4907</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13568</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime=""2026-02-11 18:54:23.644625+00:00""></TimeCreated>
+<EventRecordID>790672</EventRecordID>
+<Correlation ActivityID="""" RelatedActivityID=""""></Correlation>
+<Execution ProcessID=""4"" ThreadID=""17468""></Execution>
+<Channel>Security</Channel>
+<Computer>REMDOZ</Computer>
+<Security UserID=""""></Security>
+</System>
+<EventData><Data Name=""SubjectUserSid"">S-1-5-18</Data>
+<Data Name=""SubjectUserName"">REMDOZ$</Data>
+<Data Name=""SubjectDomainName"">WORKGROUP</Data>
+<Data Name=""SubjectLogonId"">0x00000000000003e7</Data>
+<Data Name=""ObjectServer"">Security</Data>
+<Data Name=""ObjectType"">File</Data>
+<Data Name=""ObjectName"">C:\ProgramData\Dell\SARemediation\SystemRepair\Snapshots\Backup\940499323678F6FDE1D3EB4F4E95B872A34F694C.dll</Data>
+<Data Name=""HandleId"">0x0000000000000e3c</Data>
+<Data Name=""OldSd"">S:AINO_ACCESS_CONTROL</Data>
+<Data Name=""NewSd"">S:(AU;SAFA;DCLCRPCRSDWDWO;;;WD)</Data>
+<Data Name=""ProcessId"">0x0000000000003f1c</Data>
+<Data Name=""ProcessName"">C:\Program Files\Dell\SARemediation\agent\DellSupportAssistRemedationService.exe</Data>
+</EventData>
+</Event>
+"
+"<Event xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><System><Provider Name=""Microsoft-Windows-Security-Auditing"" Guid=""{54849625-5478-4994-a5ba-3e3b0328c30d}""></Provider>
+<EventID Qualifiers="""">4907</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13568</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime=""2026-02-11 18:54:43.552130+00:00""></TimeCreated>
+<EventRecordID>792980</EventRecordID>
+<Correlation ActivityID="""" RelatedActivityID=""""></Correlation>
+<Execution ProcessID=""4"" ThreadID=""2232""></Execution>
+<Channel>Security</Channel>
+<Computer>REMDOZ</Computer>
+<Security UserID=""""></Security>
+</System>
+<EventData><Data Name=""SubjectUserSid"">S-1-5-18</Data>
+<Data Name=""SubjectUserName"">REMDOZ$</Data>
+<Data Name=""SubjectDomainName"">WORKGROUP</Data>
+<Data Name=""SubjectLogonId"">0x00000000000003e7</Data>
+<Data Name=""ObjectServer"">Security</Data>
+<Data Name=""ObjectType"">File</Data>
+<Data Name=""ObjectName"">C:\ProgramData\Dell\SARemediation\SystemRepair\Snapshots\Backup\2750DC9E12F32DD99006E2E76F6B3A964625F199.dll</Data>
+<Data Name=""HandleId"">0x00000000000008fc</Data>
+<Data Name=""OldSd"">S:AINO_ACCESS_CONTROL</Data>
+<Data Name=""NewSd"">S:(AU;SAFA;DCLCRPCRSDWDWO;;;WD)</Data>
+<Data Name=""ProcessId"">0x0000000000003f1c</Data>
+<Data Name=""ProcessName"">C:\Program Files\Dell\SARemediation\agent\DellSupportAssistRemedationService.exe</Data>
+</EventData>
+</Event>
+"
+"<Event xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><System><Provider Name=""Microsoft-Windows-Security-Auditing"" Guid=""{54849625-5478-4994-a5ba-3e3b0328c30d}""></Provider>
+<EventID Qualifiers="""">4907</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13568</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime=""2026-02-11 18:54:58.824625+00:00""></TimeCreated>
+<EventRecordID>793576</EventRecordID>
+<Correlation ActivityID="""" RelatedActivityID=""""></Correlation>
+<Execution ProcessID=""4"" ThreadID=""19860""></Execution>
+<Channel>Security</Channel>
+<Computer>REMDOZ</Computer>
+<Security UserID=""""></Security>
+</System>
+<EventData><Data Name=""SubjectUserSid"">S-1-5-18</Data>
+<Data Name=""SubjectUserName"">REMDOZ$</Data>
+<Data Name=""SubjectDomainName"">WORKGROUP</Data>
+<Data Name=""SubjectLogonId"">0x00000000000003e7</Data>
+<Data Name=""ObjectServer"">Security</Data>
+<Data Name=""ObjectType"">File</Data>
+<Data Name=""ObjectName"">C:\ProgramData\Dell\SARemediation\SystemRepair\Snapshots\Backup\F1680E6D91CED95C50EF392A72C4049A79522A51.pri</Data>
+<Data Name=""HandleId"">0x0000000000000834</Data>
+<Data Name=""OldSd"">S:AINO_ACCESS_CONTROL</Data>
+<Data Name=""NewSd"">S:(AU;SAFA;DCLCRPCRSDWDWO;;;WD)</Data>
+<Data Name=""ProcessId"">0x0000000000003f1c</Data>
+<Data Name=""ProcessName"">C:\Program Files\Dell\SARemediation\agent\DellSupportAssistRemedationService.exe</Data>
+</EventData>
+</Event>
+"
+"<Event xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><System><Provider Name=""Microsoft-Windows-Security-Auditing"" Guid=""{54849625-5478-4994-a5ba-3e3b0328c30d}""></Provider>
+<EventID Qualifiers="""">4907</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13568</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime=""2026-02-11 18:55:17.203796+00:00""></TimeCreated>
+<EventRecordID>794565</EventRecordID>
+<Correlation ActivityID="""" RelatedActivityID=""""></Correlation>
+<Execution ProcessID=""4"" ThreadID=""25676""></Execution>
+<Channel>Security</Channel>
+<Computer>REMDOZ</Computer>
+<Security UserID=""""></Security>
+</System>
+<EventData><Data Name=""SubjectUserSid"">S-1-5-18</Data>
+<Data Name=""SubjectUserName"">REMDOZ$</Data>
+<Data Name=""SubjectDomainName"">WORKGROUP</Data>
+<Data Name=""SubjectLogonId"">0x00000000000003e7</Data>
+<Data Name=""ObjectServer"">Security</Data>
+<Data Name=""ObjectType"">File</Data>
+<Data Name=""ObjectName"">C:\ProgramData\Dell\SARemediation\SystemRepair\Snapshots\Backup\9C4CA3079A05F6325E4746252DF93F5E625AD0BF.dll</Data>
+<Data Name=""HandleId"">0x0000000000001940</Data>
+<Data Name=""OldSd"">S:AINO_ACCESS_CONTROL</Data>
+<Data Name=""NewSd"">S:(AU;SAFA;DCLCRPCRSDWDWO;;;WD)</Data>
+<Data Name=""ProcessId"">0x0000000000003f1c</Data>
+<Data Name=""ProcessName"">C:\Program Files\Dell\SARemediation\agent\DellSupportAssistRemedationService.exe</Data>
+</EventData>
+</Event>
+"
+"<Event xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><System><Provider Name=""Microsoft-Windows-Security-Auditing"" Guid=""{54849625-5478-4994-a5ba-3e3b0328c30d}""></Provider>
+<EventID Qualifiers="""">4907</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13568</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime=""2026-02-11 18:55:17.571194+00:00""></TimeCreated>
+<EventRecordID>794625</EventRecordID>
+<Correlation ActivityID="""" RelatedActivityID=""""></Correlation>
+<Execution ProcessID=""4"" ThreadID=""17696""></Execution>
+<Channel>Security</Channel>
+<Computer>REMDOZ</Computer>
+<Security UserID=""""></Security>
+</System>
+<EventData><Data Name=""SubjectUserSid"">S-1-5-18</Data>
+<Data Name=""SubjectUserName"">REMDOZ$</Data>
+<Data Name=""SubjectDomainName"">WORKGROUP</Data>
+<Data Name=""SubjectLogonId"">0x00000000000003e7</Data>
+<Data Name=""ObjectServer"">Security</Data>
+<Data Name=""ObjectType"">File</Data>
+<Data Name=""ObjectName"">C:\ProgramData\Dell\SARemediation\SystemRepair\Snapshots\Backup\F3B6C846D82AB6CA10D50224B1E6BE4474F0BB0D.dll</Data>
+<Data Name=""HandleId"">0x00000000000009f4</Data>
+<Data Name=""OldSd"">S:AINO_ACCESS_CONTROL</Data>
+<Data Name=""NewSd"">S:(AU;SAFA;DCLCRPCRSDWDWO;;;WD)</Data>
+<Data Name=""ProcessId"">0x0000000000003f1c</Data>
+<Data Name=""ProcessName"">C:\Program Files\Dell\SARemediation\agent\DellSupportAssistRemedationService.exe</Data>
+</EventData>
+</Event>
+"
+"<Event xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><System><Provider Name=""Microsoft-Windows-Security-Auditing"" Guid=""{54849625-5478-4994-a5ba-3e3b0328c30d}""></Provider>
+<EventID Qualifiers="""">4907</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13568</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime=""2026-02-11 18:55:19.462503+00:00""></TimeCreated>
+<EventRecordID>794864</EventRecordID>
+<Correlation ActivityID="""" RelatedActivityID=""""></Correlation>
+<Execution ProcessID=""4"" ThreadID=""2232""></Execution>
+<Channel>Security</Channel>
+<Computer>REMDOZ</Computer>
+<Security UserID=""""></Security>
+</System>
+<EventData><Data Name=""SubjectUserSid"">S-1-5-18</Data>
+<Data Name=""SubjectUserName"">REMDOZ$</Data>
+<Data Name=""SubjectDomainName"">WORKGROUP</Data>
+<Data Name=""SubjectLogonId"">0x00000000000003e7</Data>
+<Data Name=""ObjectServer"">Security</Data>
+<Data Name=""ObjectType"">File</Data>
+<Data Name=""ObjectName"">C:\ProgramData\Dell\SARemediation\SystemRepair\Snapshots\Backup\873555E24A7D10A008F25E3B9F621642756F0FC1.mui</Data>
+<Data Name=""HandleId"">0x000000000000195c</Data>
+<Data Name=""OldSd"">S:AINO_ACCESS_CONTROL</Data>
+<Data Name=""NewSd"">S:(AU;SAFA;DCLCRPCRSDWDWO;;;WD)</Data>
+<Data Name=""ProcessId"">0x0000000000003f1c</Data>
+<Data Name=""ProcessName"">C:\Program Files\Dell\SARemediation\agent\DellSupportAssistRemedationService.exe</Data>
+</EventData>
+</Event>
+"
+"<Event xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><System><Provider Name=""Microsoft-Windows-Security-Auditing"" Guid=""{54849625-5478-4994-a5ba-3e3b0328c30d}""></Provider>
+<EventID Qualifiers="""">4907</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13568</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime=""2026-02-11 18:55:25.800510+00:00""></TimeCreated>
+<EventRecordID>795645</EventRecordID>
+<Correlation ActivityID="""" RelatedActivityID=""""></Correlation>
+<Execution ProcessID=""4"" ThreadID=""19644""></Execution>
+<Channel>Security</Channel>
+<Computer>REMDOZ</Computer>
+<Security UserID=""""></Security>
+</System>
+<EventData><Data Name=""SubjectUserSid"">S-1-5-18</Data>
+<Data Name=""SubjectUserName"">REMDOZ$</Data>
+<Data Name=""SubjectDomainName"">WORKGROUP</Data>
+<Data Name=""SubjectLogonId"">0x00000000000003e7</Data>
+<Data Name=""ObjectServer"">Security</Data>
+<Data Name=""ObjectType"">File</Data>
+<Data Name=""ObjectName"">C:\ProgramData\Dell\SARemediation\SystemRepair\Snapshots\Backup\F8D0F878E677544926546462557716D262E7A2C6.dll</Data>
+<Data Name=""HandleId"">0x0000000000001a64</Data>
+<Data Name=""OldSd"">S:AINO_ACCESS_CONTROL</Data>
+<Data Name=""NewSd"">S:(AU;SAFA;DCLCRPCRSDWDWO;;;WD)</Data>
+<Data Name=""ProcessId"">0x0000000000003f1c</Data>
+<Data Name=""ProcessName"">C:\Program Files\Dell\SARemediation\agent\DellSupportAssistRemedationService.exe</Data>
+</EventData>
+</Event>
+"
+"<Event xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><System><Provider Name=""Microsoft-Windows-Security-Auditing"" Guid=""{54849625-5478-4994-a5ba-3e3b0328c30d}""></Provider>
+<EventID Qualifiers="""">4907</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13568</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime=""2026-02-11 18:56:41.326977+00:00""></TimeCreated>
+<EventRecordID>798491</EventRecordID>
+<Correlation ActivityID="""" RelatedActivityID=""""></Correlation>
+<Execution ProcessID=""4"" ThreadID=""18400""></Execution>
+<Channel>Security</Channel>
+<Computer>REMDOZ</Computer>
+<Security UserID=""""></Security>
+</System>
+<EventData><Data Name=""SubjectUserSid"">S-1-5-18</Data>
+<Data Name=""SubjectUserName"">REMDOZ$</Data>
+<Data Name=""SubjectDomainName"">WORKGROUP</Data>
+<Data Name=""SubjectLogonId"">0x00000000000003e7</Data>
+<Data Name=""ObjectServer"">Security</Data>
+<Data Name=""ObjectType"">File</Data>
+<Data Name=""ObjectName"">C:\ProgramData\Dell\SARemediation\SystemRepair\Snapshots\Backup\626462562370E2A162D2A54F765166767919ADF7.dll</Data>
+<Data Name=""HandleId"">0x0000000000000a14</Data>
+<Data Name=""OldSd"">S:AINO_ACCESS_CONTROL</Data>
+<Data Name=""NewSd"">S:(AU;SAFA;DCLCRPCRSDWDWO;;;WD)</Data>
+<Data Name=""ProcessId"">0x0000000000003f1c</Data>
+<Data Name=""ProcessName"">C:\Program Files\Dell\SARemediation\agent\DellSupportAssistRemedationService.exe</Data>
+</EventData>
+</Event>
+"
+"<Event xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><System><Provider Name=""Microsoft-Windows-Security-Auditing"" Guid=""{54849625-5478-4994-a5ba-3e3b0328c30d}""></Provider>
+<EventID Qualifiers="""">4907</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13568</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime=""2026-02-11 18:56:43.080961+00:00""></TimeCreated>
+<EventRecordID>798524</EventRecordID>
+<Correlation ActivityID="""" RelatedActivityID=""""></Correlation>
+<Execution ProcessID=""4"" ThreadID=""18400""></Execution>
+<Channel>Security</Channel>
+<Computer>REMDOZ</Computer>
+<Security UserID=""""></Security>
+</System>
+<EventData><Data Name=""SubjectUserSid"">S-1-5-18</Data>
+<Data Name=""SubjectUserName"">REMDOZ$</Data>
+<Data Name=""SubjectDomainName"">WORKGROUP</Data>
+<Data Name=""SubjectLogonId"">0x00000000000003e7</Data>
+<Data Name=""ObjectServer"">Security</Data>
+<Data Name=""ObjectType"">File</Data>
+<Data Name=""ObjectName"">C:\ProgramData\Dell\SARemediation\SystemRepair\Snapshots\Backup\813504625AE169382CA6CDAAD25677AA8FF1F86F.dll</Data>
+<Data Name=""HandleId"">0x0000000000000814</Data>
+<Data Name=""OldSd"">S:AINO_ACCESS_CONTROL</Data>
+<Data Name=""NewSd"">S:(AU;SAFA;DCLCRPCRSDWDWO;;;WD)</Data>
+<Data Name=""ProcessId"">0x0000000000003f1c</Data>
+<Data Name=""ProcessName"">C:\Program Files\Dell\SARemediation\agent\DellSupportAssistRemedationService.exe</Data>
+</EventData>
+</Event>
+"
+"<Event xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><System><Provider Name=""Microsoft-Windows-Security-Auditing"" Guid=""{54849625-5478-4994-a5ba-3e3b0328c30d}""></Provider>
+<EventID Qualifiers="""">4907</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13568</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime=""2026-02-11 18:56:52.055939+00:00""></TimeCreated>
+<EventRecordID>799008</EventRecordID>
+<Correlation ActivityID="""" RelatedActivityID=""""></Correlation>
+<Execution ProcessID=""4"" ThreadID=""876""></Execution>
+<Channel>Security</Channel>
+<Computer>REMDOZ</Computer>
+<Security UserID=""""></Security>
+</System>
+<EventData><Data Name=""SubjectUserSid"">S-1-5-18</Data>
+<Data Name=""SubjectUserName"">REMDOZ$</Data>
+<Data Name=""SubjectDomainName"">WORKGROUP</Data>
+<Data Name=""SubjectLogonId"">0x00000000000003e7</Data>
+<Data Name=""ObjectServer"">Security</Data>
+<Data Name=""ObjectType"">File</Data>
+<Data Name=""ObjectName"">C:\ProgramData\Dell\SARemediation\SystemRepair\Snapshots\Backup\1B1EBB46414E26713DF54625F05D289D56EC883C.DLL</Data>
+<Data Name=""HandleId"">0x0000000000000688</Data>
+<Data Name=""OldSd"">S:AINO_ACCESS_CONTROL</Data>
+<Data Name=""NewSd"">S:(AU;SAFA;DCLCRPCRSDWDWO;;;WD)</Data>
+<Data Name=""ProcessId"">0x0000000000003f1c</Data>
+<Data Name=""ProcessName"">C:\Program Files\Dell\SARemediation\agent\DellSupportAssistRemedationService.exe</Data>
+</EventData>
+</Event>
+"
+"<Event xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><System><Provider Name=""Microsoft-Windows-Security-Auditing"" Guid=""{54849625-5478-4994-a5ba-3e3b0328c30d}""></Provider>
+<EventID Qualifiers="""">4907</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13568</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime=""2026-02-11 18:56:52.234596+00:00""></TimeCreated>
+<EventRecordID>799076</EventRecordID>
+<Correlation ActivityID="""" RelatedActivityID=""""></Correlation>
+<Execution ProcessID=""4"" ThreadID=""12808""></Execution>
+<Channel>Security</Channel>
+<Computer>REMDOZ</Computer>
+<Security UserID=""""></Security>
+</System>
+<EventData><Data Name=""SubjectUserSid"">S-1-5-18</Data>
+<Data Name=""SubjectUserName"">REMDOZ$</Data>
+<Data Name=""SubjectDomainName"">WORKGROUP</Data>
+<Data Name=""SubjectLogonId"">0x00000000000003e7</Data>
+<Data Name=""ObjectServer"">Security</Data>
+<Data Name=""ObjectType"">File</Data>
+<Data Name=""ObjectName"">C:\ProgramData\Dell\SARemediation\SystemRepair\Snapshots\Backup\AAB0DE4A081E82A3FE2666EF4625E3554BC6DB87.DLL</Data>
+<Data Name=""HandleId"">0x00000000000019c0</Data>
+<Data Name=""OldSd"">S:AINO_ACCESS_CONTROL</Data>
+<Data Name=""NewSd"">S:(AU;SAFA;DCLCRPCRSDWDWO;;;WD)</Data>
+<Data Name=""ProcessId"">0x0000000000003f1c</Data>
+<Data Name=""ProcessName"">C:\Program Files\Dell\SARemediation\agent\DellSupportAssistRemedationService.exe</Data>
+</EventData>
+</Event>
+"
+"<Event xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><System><Provider Name=""Microsoft-Windows-Security-Auditing"" Guid=""{54849625-5478-4994-a5ba-3e3b0328c30d}""></Provider>
+<EventID Qualifiers="""">4907</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13568</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime=""2026-02-11 18:56:54.456482+00:00""></TimeCreated>
+<EventRecordID>799167</EventRecordID>
+<Correlation ActivityID="""" RelatedActivityID=""""></Correlation>
+<Execution ProcessID=""4"" ThreadID=""25676""></Execution>
+<Channel>Security</Channel>
+<Computer>REMDOZ</Computer>
+<Security UserID=""""></Security>
+</System>
+<EventData><Data Name=""SubjectUserSid"">S-1-5-18</Data>
+<Data Name=""SubjectUserName"">REMDOZ$</Data>
+<Data Name=""SubjectDomainName"">WORKGROUP</Data>
+<Data Name=""SubjectLogonId"">0x00000000000003e7</Data>
+<Data Name=""ObjectServer"">Security</Data>
+<Data Name=""ObjectType"">File</Data>
+<Data Name=""ObjectName"">C:\ProgramData\Dell\SARemediation\SystemRepair\Snapshots\Backup\7EF10396B86720EC89DE87470511462581D463C4.dll</Data>
+<Data Name=""HandleId"">0x0000000000001924</Data>
+<Data Name=""OldSd"">S:AINO_ACCESS_CONTROL</Data>
+<Data Name=""NewSd"">S:(AU;SAFA;DCLCRPCRSDWDWO;;;WD)</Data>
+<Data Name=""ProcessId"">0x0000000000003f1c</Data>
+<Data Name=""ProcessName"">C:\Program Files\Dell\SARemediation\agent\DellSupportAssistRemedationService.exe</Data>
+</EventData>
+</Event>
+"
+"<Event xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><System><Provider Name=""Microsoft-Windows-Security-Auditing"" Guid=""{54849625-5478-4994-a5ba-3e3b0328c30d}""></Provider>
+<EventID Qualifiers="""">4907</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13568</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime=""2026-02-11 18:56:57.834625+00:00""></TimeCreated>
+<EventRecordID>799312</EventRecordID>
+<Correlation ActivityID="""" RelatedActivityID=""""></Correlation>
+<Execution ProcessID=""4"" ThreadID=""528""></Execution>
+<Channel>Security</Channel>
+<Computer>REMDOZ</Computer>
+<Security UserID=""""></Security>
+</System>
+<EventData><Data Name=""SubjectUserSid"">S-1-5-18</Data>
+<Data Name=""SubjectUserName"">REMDOZ$</Data>
+<Data Name=""SubjectDomainName"">WORKGROUP</Data>
+<Data Name=""SubjectLogonId"">0x00000000000003e7</Data>
+<Data Name=""ObjectServer"">Security</Data>
+<Data Name=""ObjectType"">File</Data>
+<Data Name=""ObjectName"">C:\ProgramData\Dell\SARemediation\SystemRepair\Snapshots\Backup\2DC49F755EF3E357F0980A5E5EC95BA357B86605.dll</Data>
+<Data Name=""HandleId"">0x00000000000007cc</Data>
+<Data Name=""OldSd"">S:AINO_ACCESS_CONTROL</Data>
+<Data Name=""NewSd"">S:(AU;SAFA;DCLCRPCRSDWDWO;;;WD)</Data>
+<Data Name=""ProcessId"">0x0000000000003f1c</Data>
+<Data Name=""ProcessName"">C:\Program Files\Dell\SARemediation\agent\DellSupportAssistRemedationService.exe</Data>
+</EventData>
+</Event>
+"
+"<Event xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><System><Provider Name=""Microsoft-Windows-Security-Auditing"" Guid=""{54849625-5478-4994-a5ba-3e3b0328c30d}""></Provider>
+<EventID Qualifiers="""">4907</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13568</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime=""2026-02-11 18:57:18.453745+00:00""></TimeCreated>
+<EventRecordID>800265</EventRecordID>
+<Correlation ActivityID="""" RelatedActivityID=""""></Correlation>
+<Execution ProcessID=""4"" ThreadID=""24696""></Execution>
+<Channel>Security</Channel>
+<Computer>REMDOZ</Computer>
+<Security UserID=""""></Security>
+</System>
+<EventData><Data Name=""SubjectUserSid"">S-1-5-18</Data>
+<Data Name=""SubjectUserName"">REMDOZ$</Data>
+<Data Name=""SubjectDomainName"">WORKGROUP</Data>
+<Data Name=""SubjectLogonId"">0x00000000000003e7</Data>
+<Data Name=""ObjectServer"">Security</Data>
+<Data Name=""ObjectType"">File</Data>
+<Data Name=""ObjectName"">C:\ProgramData\Dell\SARemediation\SystemRepair\Snapshots\Backup\CBD3924625B48FC3E1A85E05A0D08E698F0FBA8C.dll</Data>
+<Data Name=""HandleId"">0x0000000000000e90</Data>
+<Data Name=""OldSd"">S:AINO_ACCESS_CONTROL</Data>
+<Data Name=""NewSd"">S:(AU;SAFA;DCLCRPCRSDWDWO;;;WD)</Data>
+<Data Name=""ProcessId"">0x0000000000003f1c</Data>
+<Data Name=""ProcessName"">C:\Program Files\Dell\SARemediation\agent\DellSupportAssistRemedationService.exe</Data>
+</EventData>
+</Event>
+"
+"<Event xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><System><Provider Name=""Microsoft-Windows-Security-Auditing"" Guid=""{54849625-5478-4994-a5ba-3e3b0328c30d}""></Provider>
+<EventID Qualifiers="""">4907</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13568</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime=""2026-02-11 18:57:31.952133+00:00""></TimeCreated>
+<EventRecordID>800808</EventRecordID>
+<Correlation ActivityID="""" RelatedActivityID=""""></Correlation>
+<Execution ProcessID=""4"" ThreadID=""2232""></Execution>
+<Channel>Security</Channel>
+<Computer>REMDOZ</Computer>
+<Security UserID=""""></Security>
+</System>
+<EventData><Data Name=""SubjectUserSid"">S-1-5-18</Data>
+<Data Name=""SubjectUserName"">REMDOZ$</Data>
+<Data Name=""SubjectDomainName"">WORKGROUP</Data>
+<Data Name=""SubjectLogonId"">0x00000000000003e7</Data>
+<Data Name=""ObjectServer"">Security</Data>
+<Data Name=""ObjectType"">File</Data>
+<Data Name=""ObjectName"">C:\ProgramData\Dell\SARemediation\SystemRepair\Snapshots\Backup\2AC547E4246656F618EAE9946259871F2B392561.dll</Data>
+<Data Name=""HandleId"">0x0000000000000668</Data>
+<Data Name=""OldSd"">S:AINO_ACCESS_CONTROL</Data>
+<Data Name=""NewSd"">S:(AU;SAFA;DCLCRPCRSDWDWO;;;WD)</Data>
+<Data Name=""ProcessId"">0x0000000000003f1c</Data>
+<Data Name=""ProcessName"">C:\Program Files\Dell\SARemediation\agent\DellSupportAssistRemedationService.exe</Data>
+</EventData>
+</Event>
+"
+"<Event xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><System><Provider Name=""Microsoft-Windows-Security-Auditing"" Guid=""{54849625-5478-4994-a5ba-3e3b0328c30d}""></Provider>
+<EventID Qualifiers="""">4907</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13568</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime=""2026-02-11 18:59:12.458019+00:00""></TimeCreated>
+<EventRecordID>803344</EventRecordID>
+<Correlation ActivityID="""" RelatedActivityID=""""></Correlation>
+<Execution ProcessID=""4"" ThreadID=""876""></Execution>
+<Channel>Security</Channel>
+<Computer>REMDOZ</Computer>
+<Security UserID=""""></Security>
+</System>
+<EventData><Data Name=""SubjectUserSid"">S-1-5-18</Data>
+<Data Name=""SubjectUserName"">REMDOZ$</Data>
+<Data Name=""SubjectDomainName"">WORKGROUP</Data>
+<Data Name=""SubjectLogonId"">0x00000000000003e7</Data>
+<Data Name=""ObjectServer"">Security</Data>
+<Data Name=""ObjectType"">File</Data>
+<Data Name=""ObjectName"">C:\ProgramData\Dell\SARemediation\SystemRepair\Snapshots\Backup\6C0A64615E40A2C8A04625BEEE5533FE0B8B3324.DLL</Data>
+<Data Name=""HandleId"">0x0000000000000e7c</Data>
+<Data Name=""OldSd"">S:AINO_ACCESS_CONTROL</Data>
+<Data Name=""NewSd"">S:(AU;SAFA;DCLCRPCRSDWDWO;;;WD)</Data>
+<Data Name=""ProcessId"">0x0000000000003f1c</Data>
+<Data Name=""ProcessName"">C:\Program Files\Dell\SARemediation\agent\DellSupportAssistRemedationService.exe</Data>
+</EventData>
+</Event>
+"
+"<Event xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><System><Provider Name=""Microsoft-Windows-Security-Auditing"" Guid=""{54849625-5478-4994-a5ba-3e3b0328c30d}""></Provider>
+<EventID Qualifiers="""">4907</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13568</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime=""2026-02-11 18:59:34.966284+00:00""></TimeCreated>
+<EventRecordID>804625</EventRecordID>
+<Correlation ActivityID="""" RelatedActivityID=""""></Correlation>
+<Execution ProcessID=""4"" ThreadID=""5308""></Execution>
+<Channel>Security</Channel>
+<Computer>REMDOZ</Computer>
+<Security UserID=""""></Security>
+</System>
+<EventData><Data Name=""SubjectUserSid"">S-1-5-18</Data>
+<Data Name=""SubjectUserName"">REMDOZ$</Data>
+<Data Name=""SubjectDomainName"">WORKGROUP</Data>
+<Data Name=""SubjectLogonId"">0x00000000000003e7</Data>
+<Data Name=""ObjectServer"">Security</Data>
+<Data Name=""ObjectType"">File</Data>
+<Data Name=""ObjectName"">C:\ProgramData\Dell\SARemediation\SystemRepair\Snapshots\Backup\AEF2C386B5F988F80175AB225ED37C67A0DFD8EA.dll</Data>
+<Data Name=""HandleId"">0x00000000000018cc</Data>
+<Data Name=""OldSd"">S:AINO_ACCESS_CONTROL</Data>
+<Data Name=""NewSd"">S:(AU;SAFA;DCLCRPCRSDWDWO;;;WD)</Data>
+<Data Name=""ProcessId"">0x0000000000003f1c</Data>
+<Data Name=""ProcessName"">C:\Program Files\Dell\SARemediation\agent\DellSupportAssistRemedationService.exe</Data>
+</EventData>
+</Event>
+"
+"<Event xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><System><Provider Name=""Microsoft-Windows-Security-Auditing"" Guid=""{54849625-5478-4994-a5ba-3e3b0328c30d}""></Provider>
+<EventID Qualifiers="""">4907</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13568</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime=""2026-02-11 18:59:37.179056+00:00""></TimeCreated>
+<EventRecordID>804762</EventRecordID>
+<Correlation ActivityID="""" RelatedActivityID=""""></Correlation>
+<Execution ProcessID=""4"" ThreadID=""25676""></Execution>
+<Channel>Security</Channel>
+<Computer>REMDOZ</Computer>
+<Security UserID=""""></Security>
+</System>
+<EventData><Data Name=""SubjectUserSid"">S-1-5-18</Data>
+<Data Name=""SubjectUserName"">REMDOZ$</Data>
+<Data Name=""SubjectDomainName"">WORKGROUP</Data>
+<Data Name=""SubjectLogonId"">0x00000000000003e7</Data>
+<Data Name=""ObjectServer"">Security</Data>
+<Data Name=""ObjectType"">File</Data>
+<Data Name=""ObjectName"">C:\ProgramData\Dell\SARemediation\SystemRepair\Snapshots\Backup\838501EF5FC8E5D1EB8A4CC5EB21F39446252B5F.dll</Data>
+<Data Name=""HandleId"">0x0000000000001a30</Data>
+<Data Name=""OldSd"">S:AINO_ACCESS_CONTROL</Data>
+<Data Name=""NewSd"">S:(AU;SAFA;DCLCRPCRSDWDWO;;;WD)</Data>
+<Data Name=""ProcessId"">0x0000000000003f1c</Data>
+<Data Name=""ProcessName"">C:\Program Files\Dell\SARemediation\agent\DellSupportAssistRemedationService.exe</Data>
+</EventData>
+</Event>
+"
+"<Event xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><System><Provider Name=""Microsoft-Windows-Security-Auditing"" Guid=""{54849625-5478-4994-a5ba-3e3b0328c30d}""></Provider>
+<EventID Qualifiers="""">5379</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13824</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime=""2026-02-13 03:26:41.462584+00:00""></TimeCreated>
+<EventRecordID>810551</EventRecordID>
+<Correlation ActivityID=""{cbcc311d-9b39-000a-7231-cccb399bdc01}"" RelatedActivityID=""""></Correlation>
+<Execution ProcessID=""1424"" ThreadID=""31276""></Execution>
+<Channel>Security</Channel>
+<Computer>REMDOZ</Computer>
+<Security UserID=""""></Security>
+</System>
+<EventData><Data Name=""SubjectUserSid"">S-1-5-21-4137313538-1283305051-3444040380-1001</Data>
+<Data Name=""SubjectUserName"">devan</Data>
+<Data Name=""SubjectDomainName"">REMDOZ</Data>
+<Data Name=""SubjectLogonId"">0x0000000001e29b57</Data>
+<Data Name=""TargetName"">MicrosoftAccount:user=devans.enwerem@gmail.com</Data>
+<Data Name=""Type"">0</Data>
+<Data Name=""CountOfCredentialsReturned"">1</Data>
+<Data Name=""ReadOperation"">%%8100</Data>
+<Data Name=""ReturnCode"">0</Data>
+<Data Name=""ProcessCreationTime"">2026-02-12 22:31:48.355431+00:00</Data>
+<Data Name=""ClientProcessId"">32436</Data>
+</EventData>
+</Event>
+"
+"<Event xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><System><Provider Name=""Microsoft-Windows-Security-Auditing"" Guid=""{54849625-5478-4994-a5ba-3e3b0328c30d}""></Provider>
+<EventID Qualifiers="""">5379</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>13824</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime=""2026-02-13 21:33:13.046257+00:00""></TimeCreated>
+<EventRecordID>811992</EventRecordID>
+<Correlation ActivityID=""{cbcc311d-9b39-000a-7231-cccb399bdc01}"" RelatedActivityID=""""></Correlation>
+<Execution ProcessID=""1424"" ThreadID=""15648""></Execution>
+<Channel>Security</Channel>
+<Computer>REMDOZ</Computer>
+<Security UserID=""""></Security>
+</System>
+<EventData><Data Name=""SubjectUserSid"">S-1-5-21-4137313538-1283305051-3444040380-1001</Data>
+<Data Name=""SubjectUserName"">devan</Data>
+<Data Name=""SubjectDomainName"">REMDOZ</Data>
+<Data Name=""SubjectLogonId"">0x0000000001e29b57</Data>
+<Data Name=""TargetName"">MicrosoftAccount:user=devans.enwerem@gmail.com</Data>
+<Data Name=""Type"">0</Data>
+<Data Name=""CountOfCredentialsReturned"">1</Data>
+<Data Name=""ReadOperation"">%%8100</Data>
+<Data Name=""ReturnCode"">0</Data>
+<Data Name=""ProcessCreationTime"">2026-02-12 22:31:48.355431+00:00</Data>
+<Data Name=""ClientProcessId"">32436</Data>
+</EventData>
+</Event>
+"
